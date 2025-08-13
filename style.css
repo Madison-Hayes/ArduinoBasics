@@ -7,7 +7,7 @@ box-sizing: border-box;
 body {
   font-family: Arial, sans-serif;
   background-color: #7d7d85;
-  color: black;
+  color: #222222;
   padding: 20px;
 }
 
@@ -28,7 +28,7 @@ img {
 
 h2 {
   font-family:  monospace;
-  color: maroon;
+  color: #420909;
   margin-bottom: 10px;
 }
 
@@ -40,7 +40,7 @@ h3 {
 
 h4 {
   font-family: Tahoma, sans-serif;
-  color: teal;
+  color: #0f9994;
   margin-bottom: 10px;
 }
 
